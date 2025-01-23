@@ -1,0 +1,8 @@
+altair
+apache_beam
+pandas
+vega
+vl-convert-python 
+snowflake-snowpark-python
+snowflake-connector-python
+fastparquet

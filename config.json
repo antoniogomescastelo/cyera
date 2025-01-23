@@ -1,0 +1,13 @@
+{
+    "cyera_client_id": "2e476363-2c7a-4c01-a571-8f227d54876e",
+    "cyera_client_secret": "06c99864-abb5-42df-946d-cd64da5b53a0",
+    "cyera_api_endpoint_url": "https://api.cyera.io",
+
+    "collibra_host": "print.collibra.com",
+    "collibra_client_id": "urn:sys:env:d292a331-8d5e-4580-9013-766b0d6edc97:i:11as2k8",
+    "collibra_client_secret": "laFXqICttivi2NacqcVl_5M1AnJPEi-lNlVkncRh4pra-S78lzTvBbckxvHJ16LZ",
+    "collibra_token_endpoint": "/rest/oauth/v2/token",
+    "collibra_api_endpoint": "/rest/2.0",
+    "collibra_username": "DataLakeAdmin",
+    "collibra_password": "W2.Collibra"
+}
