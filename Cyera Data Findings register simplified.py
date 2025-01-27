@@ -180,7 +180,8 @@ def get_datastores_objects(datastores_df, config):
 def get_data_findings(config):
     logging.getLogger().debug("get all findings")
 
-    session = Session.builder.config("connection_name", "cyera").create()
+    session = st.connection("snowflake").session()
+    #session = Session.builder.config("connection_name", "cyera").create()
 
     # classifications_df = pd.DataFrame(get_classifications(config))
 
